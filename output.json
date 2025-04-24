@@ -29,7 +29,7 @@
     "figure": "Figure 1.5",
     "description": "Heating of lead nitrate and emission of nitrogen dioxide."
   },
-   {
+  {
     "chapter": "1 CHAPTER",
     "subchapter": "1.2.2 Decomposition Reaction",
     "figure": "Figure 1.6",
@@ -47,7 +47,7 @@
     "figure": "Figure 1.8a",
     "description": "Figure 1.8 (a) Iron nails dipped in copper sulphate solution ?"
   },
-   {
+  {
     "chapter": "1 CHAPTER",
     "subchapter": "1.2.3 Displacement Reaction",
     "figure": "Figure 1.8b",
@@ -59,7 +59,7 @@
     "figure": "Figure 1.9",
     "description": "Figure 1.9 Formation of barium sulphate and sodium chloride."
   },
-   {
+  {
     "chapter": "1 CHAPTER",
     "subchapter": "1.2.5 Oxidation and Reduction",
     "figure": "Figure 1.10",
@@ -67,7 +67,7 @@
   },
   {
     "chapter": "13 CHAPTER",
-    "subchapter": "13.1 MAGNETIC FIELD AND FIELD LINES",
+    "subchapter": "13 Magnetic Effects of Electric Current",
     "figure": "Figure 13.1",
     "description": "Figure 13.1 Compass needle is deflected on passing an electric current through a metallic conductor."
   },
